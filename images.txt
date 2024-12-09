@@ -5,3 +5,9 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python
+mysql
+redis
+nacos
+rancher/rancher
+portainer/portainer
+tomcat
