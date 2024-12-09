@@ -7,7 +7,6 @@ xhofe/alist:latest
 python
 mysql
 redis
-nacos
 rancher/rancher
 portainer/portainer
 tomcat
